@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{03273c59-e624-415f-b7ed-d1ea7afcc31f}">
+        <property name="assetPath">
+            <value>Effects/Enemies/ZomBear/ZomBear Hurt.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.38705215419501132</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{afac07a3-874e-4ee7-898a-9026893e914e}</destination>
+        </relationship>
+    </object>
+</objects>

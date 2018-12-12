@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="EncodableAsset" id="{e096a4f4-c217-4ada-aae0-16ce530fb128}">
+        <property name="assetPath">
+            <value>Effects/Enemies/ZomBunny/</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{afac07a3-874e-4ee7-898a-9026893e914e}</destination>
+        </relationship>
+    </object>
+</objects>
